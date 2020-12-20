@@ -40,3 +40,7 @@ fun evaluateGuess(secret: String, guess: String): Evaluation {
     return Evaluation(right,wrong)
 }
 
+fun main()
+{
+    println("veamos");
+}
